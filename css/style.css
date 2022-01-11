@@ -106,7 +106,7 @@ body{
   color: #d5be8b;
 }
 
-/* best selling product */
+/* meilleures ventes */
 
 .best-selling-product-section{
   position: relative;
@@ -166,7 +166,7 @@ body{
   opacity: 0.5;
 }
 
-/* mid section */
+/* middle section */
 
 .mid-section{
   width: 100%;
@@ -217,7 +217,7 @@ body{
   opacity: 0.5;
 }
 
-/* image collage */
+/* image section */
 
 .image-mid-section{
   width: 100%;
@@ -272,7 +272,7 @@ body{
   transform: translateY(-10px);
 }
 
-/* review section */
+/* comm section  */
 
 .review-section{
   padding: 50px 5vw;
